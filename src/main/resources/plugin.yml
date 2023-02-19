@@ -1,0 +1,8 @@
+name: RedeOblivion
+version: 1.0
+main: br.com.oblivion.OblivionPlugin
+api-version: 1.18
+
+commands:
+  group:
+    aliases: grupo
